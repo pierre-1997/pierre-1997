@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👋 Engineer with cybersecurity specialization
-- 👀 Looking for my next Rust software developer role
+- 👋 French Engineer with Cybersecurity specialization
+- 👀 Looking for my next **Rust Software Engineer** role
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre-1997&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
